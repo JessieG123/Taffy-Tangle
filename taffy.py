@@ -6,31 +6,31 @@ stddraw.setXscale(-16.0, 16.0)
 stddraw.setYscale(-22.0, 25.0)
 
 def pic1(x, y):
-    stddraw.picture(picture.Picture("pic1.png"), x, y)
+    stddraw.picture(picture.Picture("picsfortaffytangle\pic1.png"), x, y)
     stddraw.show(0.0)
 
 def pic2(x, y):
-    stddraw.picture(picture.Picture("pic2.png"), x, y)
+    stddraw.picture(picture.Picture("picsfortaffytangle\pic2.png"), x, y)
     stddraw.show(0.0)
 
 def pic3(x, y):
-    stddraw.picture(picture.Picture("pic3.png"), x, y)
+    stddraw.picture(picture.Picture("picsfortaffytangle\pic3.png"), x, y)
     stddraw.show(0.0)
 
 def pic4(x, y):
-    stddraw.picture(picture.Picture("pic4.png"), x, y)
+    stddraw.picture(picture.Picture("picsfortaffytangle\pic4.png"), x, y)
     stddraw.show(0.0)
 
 def pic5(x, y):
-    stddraw.picture(picture.Picture("pic5.png"), x, y)
+    stddraw.picture(picture.Picture("picsfortaffytangle\pic5.png"), x, y)
     stddraw.show(0.0)
 
 def pic6(x, y):
-    stddraw.picture(picture.Picture("pic6.png"), x, y)
+    stddraw.picture(picture.Picture("picsfortaffytangle\pic6.png"), x, y)
     stddraw.show(0.0)
 
 def picwhite(x, y):
-    stddraw.picture(picture.Picture("picwhite.png"), x, y)
+    stddraw.picture(picture.Picture("picsfortaffytangle\picwhite.png"), x, y)
     stddraw.show(0.0)
 
 #pictures were from https://www.pinterest.ca/pin/204632376798360136/ or https://goo.gl/images/9QCGoH then I cropped it and made the background transparent with http://resizeimage.net/ found website from piazza
