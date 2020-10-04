@@ -6,7 +6,11 @@ Booksite library from https://introcs.cs.princeton.edu/python/code/
 A candy crush like game. <br>
 Users match the same items to "get rid" of it and score points with each match. 
 ### To run Taffy Tangle:
-1. Download the booksite library ` introcs-1.0.zip` from the above website
-2. Download all files from `masters` and save to a folder
-3. Open terminal and go into the folder
-4. Use the command `python p2-taffy.py` to run 
+1. Download all files from `main` and save to a folder
+2. Open terminal and go into the `introcs-1.0` folder
+3. Run `python setup.py install --user`
+4. Run `python`
+5. At the Python `>>>` prompt enter in `import stdio`. If no errors show up, it means it's successful.
+6. Now step out of the folder and use the command `python p2-taffy.py` to run the game!
+
+Note: may have to install pygame which can be done using `pip install pygame`
