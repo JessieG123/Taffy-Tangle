@@ -1,9 +1,9 @@
 ## U of C CPSC 231 Fall 2018
 ## Made with:
-Python 3
+Python 3 <br>
 Booksite library from https://introcs.cs.princeton.edu/python/code/
 ## Taffy Tangle:
-A candy crush like game.
+A candy crush like game. <br>
 Users match the same items to "get rid" of it and score points with each match. 
 ### To run Taffy Tangle:
 1. Download the booksite library ` introcs-1.0.zip` from the above website
