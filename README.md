@@ -9,8 +9,4 @@ Users match the same items to "get rid" of it and score points with each match.
 1. Download the booksite library ` introcs-1.0.zip` from the above website
 2. Download all files from `masters` and save to a folder
 3. Open terminal and go into the folder
-4. Use the command `python p2-taffy.py` to run
-
-# Disclaimer
-All pictures used were from https://www.pinterest.ca/pin/204632376798360136/ <br>
-I take no ownership of these images.  
+4. Use the command `python p2-taffy.py` to run 
