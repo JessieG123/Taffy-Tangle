@@ -5,7 +5,8 @@ Python 3 <br>
 Booksite library from https://introcs.cs.princeton.edu/python/code/
 ## Taffy Tangle:
 A candy crush like game. <br>
-Users match the same items to "get rid" of it and score points with each match. 
+Users match the same items to "get rid" of it and score points with each match. <br>
+![taffy](https://github.com/JessieG123/Taffy-Tangle/blob/main/taffy.png)
 ### To run Taffy Tangle:
 For Windows: <br>
 Install numpy, pygame and setuptools which can be done using `pip install numpy`, `pip install pygame` and `pip install setuptools` <br>
