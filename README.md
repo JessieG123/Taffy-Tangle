@@ -1,4 +1,4 @@
-## U of C CPSC 231 Fall 2018
+## U of C Fall 2018
 Credit to Dr. Sonny Chan for creating this fun assignment.
 ## Made with:
 Python 3 <br>
